@@ -6,7 +6,7 @@ This is mostly a for fun project just to see if I could.
 
 ## Usage
 
-`prolog -f -q server.pl`
+`swipl server.pl`
 
 ```
 ❯ curl localhost:5000
